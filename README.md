@@ -1,5 +1,4 @@
-# Linear_regression_model
-## Regression Model Comparison: Linear Regression vs Random Forest
+# Regression Model Comparison: Linear Regression vs Random Forest
 This repository contains a regression model that predicts an output variable based on input features. In this README file, we will compare the performance of the linear regression model and random forest model.
 
 ## Dataset
@@ -9,7 +8,7 @@ The dataset used in this model is a randomly generated datasets. It consists of 
 The linear regression model was trained using sklearn linear regression model. The model achieved a MSE of 2748.758381, and R-squared of 0.250793 on the test set.
 
 ## Random Forest Model
-The random forest model was trained using sklearn ensemble random forest regressor. The model achieved a MSE of 1396.872668, and R-squared of 0.619266 the test set.
+The random forest model was trained using sklearn ensemble random forest regressor. The model achieved a MSE of 1396.872668, and R-squared of 0.619266 on the test set.
 
 ## Comparison
 The performance of the linear regression model and random forest model was compared using mean squared error, R-squared. The MSE and R-squared of the random forest model was better than that of the linear regression model.
